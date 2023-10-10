@@ -1,0 +1,33 @@
+.navbar {
+    display: flex;
+
+
+}
+
+.container-navbar{
+    display: flex;
+    align-items: center;
+}
+
+.logo{
+    display: flex;
+}
+
+.navbarnav{
+    justify-content: end;
+}
+
+ul {
+    list-style-type: none;
+
+  }
+  
+  li {
+    display: inline-block;
+  }
+  
+  li a {
+    display: block;
+    text-align: center;
+    padding: 16px;
+  }
